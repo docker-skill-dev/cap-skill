@@ -17,7 +17,7 @@ skill:
   apiVersion: v2
   # namespace: <defaults to GitHub org name>
   # name: <defaults to GitHub repository name>
-  displayName: Go Sample Skill
+  displayName: CAP Skill
   description: Very basic sample skill written in Go
   author: Atomist
   license: Apache-2.0
